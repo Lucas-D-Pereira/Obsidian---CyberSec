@@ -1,5 +1,5 @@
 ## PT-BR
-Aqui vou colocar meus estudos de Cibersegurança realizados através de cursos (pagos e gratuitos). Meu intuito é expor minhas anotações e ideias acerca dos materias disponibilizados e não trazer os conteúdos (principalmente os pagos) prontos para esse
+Aqui vou colocar meus estudos de Cibersegurança realizados através de cursos (pagos e gratuitos). Meu intuito é expor minhas anotações e ideias acerca dos materiais disponibilizados e não trazer os conteúdos (principalmente os pagos) prontos para esse
 repositório. Eu não encorajo essas ações. 
 
 ## ENG
