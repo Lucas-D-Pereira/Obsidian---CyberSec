@@ -1,0 +1,28 @@
+# -----------------------------
+# Obsidian
+# -----------------------------
+
+# Ignorar pasta de configuração do Obsidian
+.obsidian/
+
+# Ignorar workspace (posição das abas abertas)
+workspace.json
+
+# Ignorar logs e cache
+*.log
+*.tmp
+.cache/
+
+# Ignorar backups
+*.bak
+
+# Ignorar PDFs sensíveis
+
+# Ignorar qualquer outro PDF (opcional)
+# *.pdf
+
+# -----------------------------
+# Arquivos de sistema
+# -----------------------------
+.DS_Store
+Thumbs.db
